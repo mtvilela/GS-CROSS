@@ -121,8 +121,6 @@ npm run typecheck
 
 ## 👥 Integrantes
 
-> Preencha com os dados reais da equipe antes da entrega.
-
 | Nome completo            | RM       |
 |--------------------------|----------|
 | Daniel Castro Sanches   | RM-563333 |
