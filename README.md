@@ -125,14 +125,8 @@ npm run typecheck
 
 | Nome completo            | RM       |
 |--------------------------|----------|
-| _Nome do integrante 1_   | _RM000000_ |
-| _Nome do integrante 2_   | _RM000000_ |
-| _Nome do integrante 3_   | _RM000000_ |
-| _Nome do integrante 4_   | _RM000000_ |
-| _Nome do integrante 5_   | _RM000000_ |
-
+| Daniel Castro Sanches   | RM-563333 |
+| Maria Eduarda de Áquila Amaral  | RM-563783 |
+| Matheus Vilela Silveira  | RM-564989 |
 ---
 
-## 📄 Licença
-
-Projeto acadêmico desenvolvido para fins educacionais.
