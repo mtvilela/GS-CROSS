@@ -1,3 +1,15 @@
+## 👥 Integrantes
+
+| Nome completo            | RM       |
+|--------------------------|----------|
+| Daniel Castro Sanches   | RM-563333 |
+| Maria Eduarda de Áquila Amaral  | RM-563783 |
+| Matheus Vilela Silveira  | RM-564989 |
+---
+
+
+
+
 # 🛰️ Central de Monitoramento de Missões Espaciais
 
 Aplicativo mobile **cross-platform** (iOS / Android / Web) desenvolvido em
@@ -118,13 +130,3 @@ npm run typecheck
 6. Feche e reabra o app: os dados persistem (AsyncStorage).
 
 ---
-
-## 👥 Integrantes
-
-| Nome completo            | RM       |
-|--------------------------|----------|
-| Daniel Castro Sanches   | RM-563333 |
-| Maria Eduarda de Áquila Amaral  | RM-563783 |
-| Matheus Vilela Silveira  | RM-564989 |
----
-
